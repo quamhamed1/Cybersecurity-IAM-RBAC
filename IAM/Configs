@@ -3,3 +3,14 @@ Domain: rbaclabtwo.onmicrosoft.com
 Tenant ID: 1f362f68-856d-4131-bc82-2515e33e3cba
 Region: United States
 
+
+Users created:
+1. User Name: RBAC Admin 1
+   Assigned Group: RBAC - Admins
+
+2. User Name: RBAC Contributor 1
+   Assigned Group: RBAC - Contributors 
+
+3. User Name: RBAC Reader User 1
+   Assigned Group: RBAC-Readers
+
