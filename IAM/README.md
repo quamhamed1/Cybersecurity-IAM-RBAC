@@ -22,3 +22,6 @@ In this step, three users and groups were created
 
 ![image](https://github.com/user-attachments/assets/8716ad75-d6dd-415b-8791-78595d8d0494)
 
+![image](https://github.com/user-attachments/assets/2455a61e-f2d8-4bbc-8ab7-cc3d88a0878b)
+
+
