@@ -7,10 +7,12 @@ Region: United States
 Users created:
 1. User Name: RBAC Admin 1
    Assigned Group: RBAC - Admins
+   Descritpion: Administrators with full control over resources.
 
 2. User Name: RBAC Contributor 1
    Assigned Group: RBAC - Contributors 
+   Description: Contributors who can manage resources but cannot assign roles.
 
 3. User Name: RBAC Reader User 1
    Assigned Group: RBAC-Readers
-
+   Description: Readers with read-only access to resources. 
