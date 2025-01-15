@@ -3,7 +3,10 @@
 A new Azure AD Tenant ('RBAC-Lab-Tenant') was created for the purpose of demonstrating RBAC implementation
 The domain used by the tenant is 'rbaclab.onmicrosoft.com'
 
+
 ![image](https://github.com/user-attachments/assets/c36ebf44-6f89-4d64-8653-540e2ab5ccf1)
+
+![image](https://github.com/user-attachments/assets/738bada9-0fcb-43fc-b22e-773f31f6bd3b)
 
 
 
