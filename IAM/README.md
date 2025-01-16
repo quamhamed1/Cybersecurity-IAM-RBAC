@@ -60,3 +60,12 @@ In this step, roles were assigned to the newly created groups.
 ![image](https://github.com/user-attachments/assets/c9b5ccf6-8894-4d43-8258-a663d869a3f2)
 
 ##Step 5: Testing RBAC implementation
+
+During testing, I ensured that the assigned roles worked as expected for different accounts 
+
+**Admin (RBAC-Admins)**: Full access to create, modify, and delete resources 
+
+![image](https://github.com/user-attachments/assets/911c0e2b-cd7c-458a-b0e9-581d45b9af36)
+
+
+
