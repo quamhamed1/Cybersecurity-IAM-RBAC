@@ -67,5 +67,34 @@ During testing, I ensured that the assigned roles worked as expected for differe
 
 ![image](https://github.com/user-attachments/assets/911c0e2b-cd7c-458a-b0e9-581d45b9af36)
 
+**Contributor Role Validation
 
+- Create Resource: Successfully created a new storage account.
+
+![image](https://github.com/user-attachments/assets/011db076-af87-4fc8-b56d-8ae82bdaef0b)
+
+- Modify Resource: Successfully modified the Secure Transfer setting for the Storage Account.
+
+![image](https://github.com/user-attachments/assets/6763fe66-fcef-4ea7-9070-729a7ef47a4b)
+
+- Manage Access: Failed to manage access, as expected. 
+
+![image](https://github.com/user-attachments/assets/cb44fe38-3adb-4381-8a55-38ecaf909b3a)
+
+
+**Reader Role Validation 
+
+The reader role was tested for the following actions:
+- View resource: Successfully viewed resource details.
+- Modify resource: Failed to modify settings, as expected.
+
+  ![image](https://github.com/user-attachments/assets/1755fd3e-663d-4b48-b36c-0a93e01845ef)
+
+- Create resource: Failed to create new resources, as expected.
+
+  ![image](https://github.com/user-attachments/assets/dda0231c-ac47-4818-a553-5a4679235fbb)
+
+- Manage access: Failed to manage access, as expected.
+
+![image](https://github.com/user-attachments/assets/7a4d3942-c180-4e8d-b1da-5c607c08495e)
 
