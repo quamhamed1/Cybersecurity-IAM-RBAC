@@ -58,3 +58,5 @@ In this step, roles were assigned to the newly created groups.
 ![image](https://github.com/user-attachments/assets/37b74553-bdde-4b38-b987-97c75c0de20f)
 
 ![image](https://github.com/user-attachments/assets/c9b5ccf6-8894-4d43-8258-a663d869a3f2)
+
+##Step 5: Testing RBAC implementation
