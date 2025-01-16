@@ -25,7 +25,7 @@ In this step, three users and groups were created
 ![image](https://github.com/user-attachments/assets/2455a61e-f2d8-4bbc-8ab7-cc3d88a0878b)
 
 
-##Step 3: Adding Users to groups
+##Step 3: Assigning Users to groups
 
 Newly created Users are added to their associated groups
 
@@ -34,3 +34,27 @@ Newly created Users are added to their associated groups
 ![image](https://github.com/user-attachments/assets/d247d83d-ee3e-44d6-b1b2-c50a8289d616)
 
 ![image](https://github.com/user-attachments/assets/ee30ff46-0f3d-4fbe-8724-547b1d3245a0)
+
+
+##Step 4: Assigning RBAC Roles to groups
+
+In this step, roles were assigned to the newly created groups. 
+
+***RBAC-Readers ---> assigned Reader role 
+
+![image](https://github.com/user-attachments/assets/d6433c0e-3e82-4d13-9a18-7b7c14ad2142)
+
+![image](https://github.com/user-attachments/assets/a946e682-241c-4cf4-a445-8226db6fc06c)
+
+
+***RBAC-Contributors --->assigned Contributor role 
+
+![image](https://github.com/user-attachments/assets/f5192cf5-7386-4123-882c-b9ed94a950e0)
+
+![image](https://github.com/user-attachments/assets/a18bec58-a9e0-43ba-acbd-584cd68e870e)
+
+***RBAC-Admins ---> assigned Owner role
+
+![image](https://github.com/user-attachments/assets/37b74553-bdde-4b38-b987-97c75c0de20f)
+
+![image](https://github.com/user-attachments/assets/c9b5ccf6-8894-4d43-8258-a663d869a3f2)
