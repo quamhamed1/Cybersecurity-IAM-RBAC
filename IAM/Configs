@@ -22,3 +22,9 @@ RBAC Roles assigned to Groups
 1. *RBAC-Admins* ---> assigned to ---> *Owner* role 
 2. *RBAC-Contributors ---> asigned to ---> *Contributor* role
 3. *RBAC-Readers* ---> assigned to ---> *Reader* role 
+
+Resource: Teststorage 
+Role Assignedments:
+----> RBAC-Admins: Owner
+----> RBAC-Contributors: Contributor 
+----> RBAC-Readers: Reader 
